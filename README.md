@@ -1,4 +1,5 @@
-Overview
+![Uploading generated_008.png…]()
+
 The Document Assistant project is designed to assist users in efficiently managing and retrieving information from various sources using advanced natural language processing techniques. 
 This documentation outlines the architecture, components, and functionalities of the project, including web scraping, data ingestion, retrieval, and the Streamlit-based user interface.
 Components
